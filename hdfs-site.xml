@@ -16,11 +16,13 @@
 
 <!-- Put site-specific property overrides in this file. -->
 
-<property>
-  <name>dfs.replication</name>
-  <value>3</value>
-</property>
-<property>
-  <name>dfs.datanode.data.dir</name>
-  <value>file:///usr/local/hadoop/hdfs/data</value>
-</property>
+<configuration>
+  <property>
+    <name>dfs.replication</name>
+    <value>3</value>
+  </property>
+  <property>
+    <name>dfs.datanode.data.dir</name>
+    <value>file:///usr/local/hadoop/hdfs/data</value>
+  </property>
+</configuration>
