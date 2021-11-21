@@ -19,6 +19,6 @@
       <configuration>
       <property>
       <name>fs.defaultFS</name>
-      <value>18.193.117.36:9000</value>
+      <value>18.193.103.99:9000</value>
       </property>
       </configuration>
