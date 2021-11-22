@@ -19,6 +19,6 @@
       <configuration>
       <property>
       <name>fs.defaultFS</name>
-      <value>18.193.103.99:9000</value>
+      <value>ec2-18-193-113-100.eu-central-1.compute.amazonaws.com:9000</value>
       </property>
       </configuration>
