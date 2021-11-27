@@ -16,7 +16,7 @@
 
   <property>
     <name>yarn.resourcemanager.hostname</name>
-    <value>ec2-3-67-194-50.eu-central-1.compute.amazonaws.com</value>
+    <value>ec2-3-68-149-109.eu-central-1.compute.amazonaws.com</value>
   </property>
 
 </configuration>
